@@ -1,4 +1,5 @@
 {
+    "go.goroot": "/opt/homebrew/Cellar/go/1.19.4/libexec",
     "gopls": {
         "experimentalWorkspaceModule": true,
     }
