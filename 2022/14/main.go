@@ -25,14 +25,6 @@ func toInt(raw string) int {
 	return res
 }
 
-func sum(arr []int) int {
-	res := 0
-	for _, it := range arr {
-		res += it
-	}
-	return res
-}
-
 func loadRocks(filename string) cave {
 	cave := cave{}
 
